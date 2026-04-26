@@ -1,3 +1,2 @@
 CompileFlags:
-  Add: [ -std=c99, -I/usr/include ]
-  Compiler: clang
+  Add: [ -std=c99 ]
