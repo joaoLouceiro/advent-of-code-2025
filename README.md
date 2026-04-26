@@ -17,3 +17,17 @@ If you have to Google, don't forget the NOPY rule. Study the solution, close the
 ### NOORAL - Do not use neural networks
 
 Just don't.
+
+## Running the project
+
+### Prerequisites
+
+- clang
+- clangd
+- bear
+
+### Execution
+
+There's a `build.sh` script in the root folder. You simply need to run it.
+
+Inside it, there is a `day` variable. Change it to match whichever day you are trying to run.
